@@ -15,3 +15,6 @@ The options used in this command have the following meaning:
 
 ## ss (statistic socket)
 * https://www.cyberciti.biz/tips/linux-investigate-sockets-network-connections.html
+```
+ss -lntpu
+```
